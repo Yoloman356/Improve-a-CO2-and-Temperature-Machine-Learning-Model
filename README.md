@@ -1,0 +1,1 @@
+This is part of a course project where we took a CO2 and temperature ML models and iterated through activation functions and optimizers to see if we could make it more accurate. Included is Original code from: https://github.com/Datargets/ClimateChange/tree/main
