@@ -1,4 +1,4 @@
-This is part of a course project where we took a CO2 and temperature ML models and iterated through activation functions and optimizers to see if we could make it more accurate. Included is Original code from: https://github.com/Datargets/ClimateChange/tree/main
+This is part of a course project where we took a CO2 and temperature ML models and iterated through activation functions and optimizers to see if we could make it more accurate. The CSV data files are provided, but the current code requires mounting your Google Drive so please upload the csv files in your Google Drive before running the code. Included is Original code from: https://github.com/Datargets/ClimateChange/tree/main
 
 We only utilized the CNN, LSTM, and Hybrid models. Feel free to download this code to experiment with!
 
